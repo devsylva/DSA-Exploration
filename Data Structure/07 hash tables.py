@@ -35,3 +35,4 @@ my_hash_table.display()
 # Retrieving values
 print("Value for 'apple':", my_hash_table.get("apple"))  # Output: Value for 'apple': 5
 print("Value for 'banana':", my_hash_table.get("banana"))  # Output: Value for 'banana': 8
+    
