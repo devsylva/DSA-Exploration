@@ -10,3 +10,18 @@ Arrays are collection of elements each identified by an index or a key
 
 ### Linked List
 Linked lists consist of nodes, where each node contains a reference to the next code.
+
+### Stacks
+Stacks follow the Last-In-First-Output (LIFO) principle. Elements are added and removed from the top of stack.
+
+### Queues
+Queues follow the First-In-First-Out (FIFO) principle. Elements are added at the back and removed from the front.
+
+### Trees
+Trees are hierarchical structures with a root node and child nodes.
+
+### Graphs
+Graph consist of nodes and edges connecting these nodes.
+
+### Hash Tables
+They use a hash function to map keys to indices in an array
